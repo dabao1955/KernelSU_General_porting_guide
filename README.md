@@ -3,5 +3,6 @@
 # 教程
 [点击这里](https://github.com/dabao1955/KernelSU_General_porting_guide/wiki)
 # 感谢
-[KernelSU项目](https://github.com/tiann/KernrlSU)
-[KernelSU_action项目](https://github.com/xiaoleGun/KernelSU_Action)
+- [KernelSU项目](https://github.com/tiann/KernrlSU)
+
+- [KernelSU_action项目](https://github.com/xiaoleGun/KernelSU_Action)
