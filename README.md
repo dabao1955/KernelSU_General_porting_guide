@@ -6,3 +6,5 @@
 - [KernelSU项目](https://github.com/tiann/KernelSU)
 
 - [KernelSU_action项目](https://github.com/xiaoleGun/KernelSU_Action)
+# 参与贡献
+https://github.com/dabao1955/KernelSU_General_porting_guide_wiki
