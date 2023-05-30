@@ -10,3 +10,6 @@
 https://github.com/dabao1955/KernelSU_General_porting_guide_wiki
 
 issue和pr都行。
+
+[![contributors](https://contributors-img.web.app/image?repo=dabao1955/KernelSU_General_porting_guide)](https://github.com/dabao1955/KernelSU_General_porting_guide/graphs/contributors)
+
