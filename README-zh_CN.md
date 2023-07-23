@@ -8,6 +8,10 @@
 - [KernelSU项目](https://github.com/tiann/KernelSU)
 
 - [KernelSU_action项目](https://github.com/xiaoleGun/KernelSU_Action)
+
+- [Magisk项目](https://github.com/topjohnwu/Magisk)
+
+- [Anykernel3项目](https://github.com/osm0sis/AnyKernel3)
 # 参与贡献
 https://github.com/dabao1955/KernelSU_General_porting_guide_wiki
 
