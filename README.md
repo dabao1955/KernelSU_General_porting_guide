@@ -9,6 +9,10 @@
 - [KernelSU Project](https://github.com/tiann/KernelSU)
 
 - [KernelSU_action Project](https://github.com/xiaoleGun/KernelSU_Action)
+
+- [Magisk Project](https://github.com/topjohnwu/Magisk)
+
+- [Anykernel3 Project](https://github.com/osm0sis/AnyKernel3)
 # Contributing
 https://github.com/dabao1955/KernelSU_General_porting_guide_wiki
 
