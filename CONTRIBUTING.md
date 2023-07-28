@@ -7,6 +7,7 @@ You can fix the wrong content of the original article. Or add new content. If yo
 - Title
 - Author
 - etc...
+
 N:For some duplicate content, you need to redirect to the relevant section of the wiki.
 ### Commit and Submit a PR
 After all this is done, you can initiate a PR. Generally, the project author will review the content. If it's ok, it will be merged and updated to the wiki content shortly.
