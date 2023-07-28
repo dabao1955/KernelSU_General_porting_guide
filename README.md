@@ -14,6 +14,8 @@
 
 - [Anykernel3 Project](https://github.com/osm0sis/AnyKernel3)
 # Contributing
+See [this](CONTRIBUTING.md) before contributing.
+
 https://github.com/dabao1955/KernelSU_General_porting_guide_wiki
 
 Issues and PRs are both OK.
