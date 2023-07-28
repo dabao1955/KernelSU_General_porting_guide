@@ -3,7 +3,7 @@ This post will guide you on how to contribute to this project.
 ### Fork Repo
 You should fork [this](https://github.com/dabao1955/KernelSU_General_porting_guide_wiki)，not [this](https://github.com/dabao1955/KernelSU_General_porting_guide) or [this](https://github.com/dabao1955/KernelSU_General_porting_guide.wiki)
 ### change Content
-You can fix the wrong content of the original article. Or add new content. If you want to create new content. You need to write the following in your new article:
+You can fix the wrong content of the original article. Or add new content. If you want to create a new post,you need to write the following in your new article:
 - Title
 - Author
 - etc...
