@@ -14,7 +14,6 @@
 - [Anykernel3项目](https://github.com/osm0sis/AnyKernel3)
 # 参与贡献
 先查看[这篇文章](CONTRIBUTING.md)
-https://github.com/dabao1955/KernelSU_General_porting_guide_wiki
 
 issue和pr都行。
 
