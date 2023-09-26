@@ -4,7 +4,9 @@
 
 安卓非GKI内核移植KernelSU通用指南/General guide to Android kernel porting KernelSU without GKI.
 # Quick Start
-[Here](https://github.com/dabao1955/KernelSU_General_porting_guide/wiki)
+You can read this in 
+[Wiki Page](https://github.com/dabao1955/KernelSU_General_porting_guide/wiki) or
+[Read the Docs](https://kernelsu-general-porting-guide.readthedocs.io/zh_CN/latest/)
 # Credits
 - [KernelSU Project](https://github.com/tiann/KernelSU)
 
