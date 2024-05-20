@@ -1,6 +1,6 @@
 # KernelSU_General_porting_guide
 
- **English** | [简体中文](README-zh_CN.md)
+ **English** | [简体中文](README-zh_CN.mdx)
 
 安卓非GKI内核移植KernelSU通用指南/General guide to Android kernel porting KernelSU without GKI.
 # Quick Start
@@ -16,7 +16,7 @@ You can read this in
 
 - [Anykernel3 Project](https://github.com/osm0sis/AnyKernel3)
 # Contributing
-See [this](CONTRIBUTING.md) before contributing.
+See [this](CONTRIBUTING.mdx) before contributing.
 
 
 Issues and PRs are both OK.
