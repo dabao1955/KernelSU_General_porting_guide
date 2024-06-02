@@ -1,4 +1,12 @@
-# KernelSU_General_porting_guide
+End of Life
+=========================================
+
+This project has fulfilled its historic mission.See [KernelSU 's release note](https://github.com/tiann/KernelSU/releases/tag/v1.0.0) for more details.
+This project will not be archived because something is still useful.
+
+
+
+## KernelSU_General_porting_guide
 
  **English** | [简体中文](README-zh_CN.mdx)
 
