@@ -11,6 +11,8 @@ This project will not be archived because something is still useful.
  **English** | [简体中文](README-zh_CN.mdx)
 
 安卓非GKI内核移植KernelSU通用指南/General guide to Android kernel porting KernelSU without GKI.
+# Supported kernel version
+3.18-5.15
 # Quick Start
 You can read this in 
 [Wiki Page](https://github.com/dabao1955/KernelSU_General_porting_guide/wiki) or
