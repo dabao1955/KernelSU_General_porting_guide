@@ -1,0 +1,3 @@
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/dabao1955/KernelSU_General_porting_guide.wiki
